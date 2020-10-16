@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="campo_nombre">Nombre</string>
+    <string name="fechaNa">Fecha</string>
+    <string name="campo_telefono">Telefono</string>
+    <string name="campo_email">Email</string>
+    <string name="campo_info">Descripcion Contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnVolver">editar datos</string>
+</resources>
